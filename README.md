@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Aswathy L
 - 👀 I’m interested in exploring the applications of machine learning and AI in solving real-world problems
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+  📫 How to reach me email: aswathytvm5858@gmail.com
 
 
 <!---
